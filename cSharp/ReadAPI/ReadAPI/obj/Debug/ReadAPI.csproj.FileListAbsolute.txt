@@ -1,0 +1,10 @@
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\bin\Debug\ReadAPI.exe.config
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\bin\Debug\ReadAPI.exe
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\bin\Debug\ReadAPI.pdb
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.Form1.resources
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.Properties.Resources.resources
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.csproj.GenerateResource.cache
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.csproj.CoreCompileInputs.cache
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.exe
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.pdb
+C:\Users\KB\Downloads\ReadAPI\ReadAPI\obj\Debug\ReadAPI.Form2.resources

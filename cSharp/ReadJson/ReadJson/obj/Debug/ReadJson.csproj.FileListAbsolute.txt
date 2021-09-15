@@ -1,0 +1,12 @@
+C:\Users\KB\Downloads\ReadJson\ReadJson\bin\Debug\ReadJson.exe.config
+C:\Users\KB\Downloads\ReadJson\ReadJson\bin\Debug\ReadJson.exe
+C:\Users\KB\Downloads\ReadJson\ReadJson\bin\Debug\ReadJson.pdb
+C:\Users\KB\Downloads\ReadJson\ReadJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\Downloads\ReadJson\ReadJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.Form1.resources
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.Properties.Resources.resources
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.csproj.GenerateResource.cache
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.csproj.CoreCompileInputs.cache
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.csproj.CopyComplete
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.exe
+C:\Users\KB\Downloads\ReadJson\ReadJson\obj\Debug\ReadJson.pdb

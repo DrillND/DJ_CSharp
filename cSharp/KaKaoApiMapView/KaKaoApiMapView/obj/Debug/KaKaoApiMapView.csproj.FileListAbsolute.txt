@@ -1,0 +1,10 @@
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\bin\Debug\KaKaoApiMapView.exe.config
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\bin\Debug\KaKaoApiMapView.exe
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\bin\Debug\KaKaoApiMapView.pdb
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.csprojAssemblyReference.cache
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.Form1.resources
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.Properties.Resources.resources
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.csproj.GenerateResource.cache
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.csproj.CoreCompileInputs.cache
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.exe
+C:\Users\KB\Downloads\KaKaoApiMapView\KaKaoApiMapView\obj\Debug\KaKaoApiMapView.pdb
